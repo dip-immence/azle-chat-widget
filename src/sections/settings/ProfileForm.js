@@ -82,7 +82,7 @@ const ProfileForm = () => {
           size="large"
           type="submit"
           variant="contained"
-          sx={{ p: 2, mt: '42px !important' }}
+          sx={{ p: 2, mt: '32px !important' }}
         >
           Send us a message
         </Button>
