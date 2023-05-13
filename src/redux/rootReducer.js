@@ -25,4 +25,4 @@ const rootReducer = combineReducers({
   sendMessage: sendMessageSlice,
 });
 
-export { rootPersistConfig, rootReducer };
+export { rootReducer };
