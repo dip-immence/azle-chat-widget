@@ -7,12 +7,11 @@ const HelloHome = () => {
   const theme = useTheme();
   return (
     <>
-      <Stack direction="row" sx={{ width: '100vh' }}>
+      <Stack direction="row" sx={{ width: '100vh', backgroundColor: '#7d7d7d14' }}>
         <Box
           sx={{
             height: '100vh',
             width: '100vw',
-            backgroundColor: '#7d7d7d14',
             borderRadius: '1rem',
           }}
         >
